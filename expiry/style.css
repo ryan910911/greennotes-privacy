@@ -1,0 +1,8 @@
+body { font-family: -apple-system, "PingFang TC", "Hiragino Sans", sans-serif; background: #F4EEE1; color: #2B2622; margin: 0; padding: 24px 16px 48px; line-height: 1.7; }
+main { max-width: 640px; margin: 0 auto; }
+h1 { font-size: 26px; margin-bottom: 4px; }
+h2 { font-size: 18px; margin-top: 32px; }
+p.date { color: #7A7064; margin-top: 0; }
+hr { border: none; border-top: 1px solid #D8CDB8; margin: 40px 0; }
+nav a { margin-right: 10px; }
+a { color: #8A5A1E; }
